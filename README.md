@@ -1,24 +1,3 @@
 # bookstore
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Vue.js网上商城项目
+使用vue cli脚手架搭建，Vue Router前端路由管理进行单页面开发，Vuex进行购物车和用户登录信息管理
